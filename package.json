@@ -1,0 +1,13 @@
+{
+    "name": "yt-player-thing",
+    "version": "1.0.0",
+    "description": "web api for a roblox game that plays youtube videos",
+    "main": "main.js",
+    "scripts": {},
+    "author": "lxngrange",
+    "license": "lxngrange HQ",
+    "dependencies": {
+        "body-parser": "^1.19.0",
+        "express": "^4.17.1"
+    }
+}
